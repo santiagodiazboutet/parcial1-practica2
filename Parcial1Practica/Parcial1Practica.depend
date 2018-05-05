@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1525560048 source:c:\parcial1practica\lib.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"lib.h"
+
+1525562281 c:\parcial1practica\lib.h
+
+1525562273 source:c:\parcial1practica\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"lib.h"
+
